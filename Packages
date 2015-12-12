@@ -1,15 +1,13 @@
 Package: com.pdhlnpt.AppToDebChuan
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: HieuPham <pdhlnpt@yahoo.com>
-Depends: 
+Maintainer: insanelyi <noreply@insanelyi.com> 
 Filename: debs//com.pdhlnpt.AppToDebChuan.deb
 Size: 67744
-MD5sum: 653A23D3A7F569F0A7A0BD313D763817
-SHA1: 2D304C6E47E406D482F44A39B47871C8AEDDB6A6
-SHA256: 4746B26BA14BAFC5BCCF63FC3637FFF174F174E1247F484D1E1271DF90E0DE5A
-Section:
+MD5sum: 4D6DD549DABF842816B0999289713006
+SHA1: 30C454958682589D582DB2FE33273DABCE41077B
+SHA256: 1D4FE882B5B24BE7361ADC5C1619434ED826904F42DF38D9D4451A7A7012EEEE
 Description: Chuyen app —> deb.
 Author: HieuPham <pdhlnpt@yahoo.com>
-Depiction: https://pdhlnpt.github.io.git/depictions/com.pdhlnpt.AppToDebChuan/index.html
-Name: App To Deb
+Depiction: http://repo.insanelyi.com/depiction.php?package=apptodeb
+Name: AppToDeb
