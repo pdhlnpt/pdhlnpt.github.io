@@ -13,3 +13,19 @@ Description: Android-like reveal animation for the NC.
 Author: Read Stanton & Jonathan (Decimation / jon889) <decimation001@gmail.com>
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.revealnc
 Name: AppToDeb
+
+Package: com.pdhlnpt.localiapstoreios9
+Version: 1.4-5
+Architecture: iphoneos-arm
+Maintainer: Hhtv <pdhlnpt@yahoo.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: debs//tweaks/com.pdhlnpt.localiapstoreios9.deb
+Size: 70680
+MD5sum: 20F659361402B76B162D633C918155E6
+SHA1: E0751DB8271730BB59864D6E6D40510633FE25E6
+SHA256: 7F781A465A924B90D0960235DC537497D5C878D98880664CFE9DE5C9B874BBBA
+Section: Tweaks
+Description: In-app Purchase for free.
+Author: pdhlnpt@yahoo.com <pdhlnpt@yahoo.com>
+Depiction: http://decimation.github.io/depictions/index.html?p= com.pdhlnpt.localiapstoreios9
+Name: localiapstoreios9
